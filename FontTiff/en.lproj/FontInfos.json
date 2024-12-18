@@ -1,0 +1,607 @@
+[
+      {
+      "font_names": [
+          "SawarabiGothic",
+          "SawarabiGothic-Regular",
+          "さわらびゴシック"
+      ],
+      "font_filename": "Sawarabi/SawarabiGothic-Regular.ttf"
+    },{
+      "font_names": [
+          "SimSun",
+          "sim sun",
+        "simsun",
+        "MS PMincho"
+      ],
+      "font_filename": "Sawarabi/SawarabiMincho-Regular.ttf"
+    },
+   {
+      "font_names": [
+          "Aozora Mincho",
+        "Aozora Mincho Regular",
+        "あおぞら明朝Regular",
+        "あおぞら明朝"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMinchoRegular.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho Black",
+        "あおぞら明朝 Black"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMinchoBlack.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho Heavy",
+        "あおぞら明朝 Heavy"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMinchoHeavy.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho Light",
+        "あおぞら明朝 Light"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMinchoLight.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho Medium",
+        "あおぞら明朝 Medium"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMinchoMedium.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho bold",
+        "あおぞら明朝 bold"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMincho-bold.ttf"
+    },
+    {
+      "font_names": [
+        "Aozora Mincho thin",
+        "あおぞら明朝 thin"
+      ],
+      "font_filename": "Mincho/AozoraMincho/AozoraMincho-thin.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c black"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-black.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c bold"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-bold.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c heavy"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-heavy.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c light"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-light.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c medium"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-medium.ttf"
+    },
+    {
+      "font_names": [
+          "Kaku Gothic",
+        "Mgen+ 2c regular",
+        "角ゴシック"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-regular.ttf"
+    },
+    {
+      "font_names": [
+        "Mgen+ 2c thin"
+      ],
+      "font_filename": "Kakugothic/mgenplus-20150602/mgenplus-2c-thin.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c black"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-black.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c bold"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-bold.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c heavy"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-heavy.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c light"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-light.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c medium"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-medium.ttf"
+    },
+    {
+      "font_names": [
+          "Maru Gothic",
+        "Rounded Mgen+ 2c regular",
+        "丸ゴシック"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-regular.ttf"
+    },
+    {
+      "font_names": [
+        "Rounded Mgen+ 2c thin"
+      ],
+      "font_filename": "Marugothic/rounded-mgenplus-20150602/rounded-mgenplus-2c-thin.ttf"
+    },
+    {
+      "font_names": [
+        "나눔고딕 Light",
+        "NanumGothic Light",
+        "NanumGothicLight",
+        "Nanum Gothic Light",
+        "나눔스퀘어라운드OTF Light",
+        "Yoon 윤고딕 520_TT",
+        "Malgun Gothic Semilignt",
+        "Pretendard Variable ExtraLight",
+        "Yu Gothic UI",
+        "RixGoL",
+        "가는각진제목체",
+        "나눔바른고딕 Light",
+        "엘리스 DX널리체 Light"
+      ],
+      "font_filename": "Nanum/NANUMGOTHICLIGHT.TTF"
+    },
+    {
+      "font_names": [
+        "나눔고딕",
+        "나눔 고딕",
+        "나눔고딕OTF",
+        "NanumGothic",
+        "Nanum Gothic",
+        "굴림",
+        "Gulim",
+        "굴림체",
+        "GulimChe",
+        "돋움",
+        "Dotum",
+        "돋움체",
+        "DotumChe",
+        "새굴림",
+        "NewGulim",
+        "휴먼매직체",
+        "MagicR-HM",
+        "HY견고딕",
+        "HY얕은샘물M",
+        "HY엽서L",
+        "HY중고딕",
+        "HY헤드라인",
+        "H2gtrE",
+        "H2gprM",
+        "H2sa1M",
+        "H2porL",
+        "2gtrM",
+        "H2hdrM",
+        "바른돋움 1",
+        "바른돋움 2",
+        "바른돋움 3",
+        "Calibri",
+        "Calibri Light",
+        "Consolas",
+        "Courier New",
+        "Times New Roman",
+        "Arial",
+        "한국야쿠르트 제목용 Light",
+        "한컴돋움",
+        "Gothic",
+        "游明朝",
+        "Yu Mincho",
+        "AppleSDGothicNeoEB00",
+        "나눔",
+        "Yoon 윤고딕 530_TT",
+        "나눔스퀘어OTF_ac",
+        "KoPub돋움체 Medium",
+        "British Council Sans",
+        "산돌고딕 L",
+        "08서울남산체 L",
+        "KoPubWorld돋움체 Medium",
+        "Pretendard Variable Medium",
+        "Montserrat",
+        "HY바다M",
+        "MD이솝체",
+        "한컴 쿨재즈 M",
+        "휴먼엑스포",
+        "HY그래픽M",
+        "Trebuchet MS",
+        "맑은 고딕 Semilight",
+        "a타이틀고딕2",
+        "고딕",
+        "휴먼모음T",
+        "Microsoft JhengHei",
+        "G마켓 산스 TTF Medium",
+        "ONE 모바일고딕",
+        "프리젠테이션 4 Regular"
+      ],
+      "font_filename": "Nanum/NANUMGOTHIC.TTF"
+    },
+    {
+    "font_names": [
+        "맑은 고딕",
+        "Malgun Gothic",
+        "나눔바른고딕",
+        "맑은 고딕 (Body)",
+        "맑은 고딕 (Body))",
+        "현대하모니 L",
+        "Noto Sans CJK KR Regular",
+        "Noto Sans KR",
+        "Noto Sans Korean Regular",
+        "본고딕",
+        "Noto Sans Mono CJK KR Regular",
+        "ARIAL",
+        "Arial",
+        "맑은고딕"
+    ],
+      "font_filename": "NotoSansKR/NotoSansKR-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "나눔고딕 Bold",
+        "NanumGothicBold",
+        "Calibri Bold",
+        "Consolas Bold",
+        "Courier New Bold",
+        "Times New Roman Bold",
+        "HY강B",
+        "한국야쿠르트 제목용 Bold",
+        "완도청정바다체 Bold",
+        "나눔스퀘어 Bold",
+        "Yoon 윤고딕 540_TT",
+        "나눔스퀘어OTF Bold",
+        "HYGothic-Extra",
+        "한양견고딕",
+        "한양견고딕,한컴돋움",
+        "KoPub돋움체 Bold",
+        "HY울릉도M",
+        "KoPubWorld돋움체 Bold",
+        "Pretendard Variable SemiBold",
+        "Pretendard SemiBold",
+        "Montserrat Black",
+        "Montserrat ExtraBold",
+        "HY백송B",
+        "휴먼굵은팸체",
+        "한양중고딕",
+        "남양주고딕R",
+        "나눔스퀘어 네오 Bold",
+        "양재튼튼체B",
+        "KoPub돋움체_Pro Bold",
+        "프리젠테이션 5 Medium"
+      ],
+      "font_filename": "Nanum/NANUMGOTHICBOLD.TTF"
+    },
+    {
+      "font_names": [
+        "나눔고딕 ExtraBold",
+        "NanumGothicExtraBold",
+        "HY울릉도B",
+        "Arial Narrow",
+        "HY동녘B",
+        "HY헤드라인M",
+        "TKTypeBold",
+        "HY각헤드라인M",
+        "Noto Sans KR Black",
+        "나눔스퀘어 ExtraBold",
+        "Adobe 고딕 Std B",
+        "나눔스퀘어라운드OTF ExtraBold",
+        "나눔스퀘어_ac ExtraBold",
+        "DIN Pro Bold",
+        "나눔스퀘어OTF_ac ExtraBold",
+        "견고딕",
+        "Pretendard Variable ExtraBold",
+        "Pretendard Variable Black",
+        "여기어때 잘난체",
+        "나눔스퀘어 네오 ExtraBold"
+      ],
+      "font_filename": "Nanum/NANUMGOTHICEXTRABOLD.TTF"
+    },
+    {
+      "font_names": [
+        "나눔명조",
+        "NanumMyeongjo",
+        "Nanum Myeongjo",
+        "궁서",
+        "Gungsuh",
+        "궁서체",
+        "GungsuhChe",
+        "바탕",
+        "Batang",
+        "바탕체",
+        "Batangche",
+        "휴먼옛체",
+        "YetR-HM",
+        "HY견명조",
+        "HY신명조",
+        "H2mjrE",
+        "H2mjsM",
+        "바른바탕1",
+        "바른바탕1 L",
+        "바른바탕1 M",
+        "바른바탕2",
+        "바른바탕2 L",
+        "바른바탕2 M",
+        "Calibri Italic",
+        "Calibri Light Italic",
+        "Consolas Italic",
+        "Courier New Italic",
+        "Times New Roman Italic",
+        "함초롬바탕",
+        "DX경필명조B",
+        "한양신명조",
+        "휴먼명조",
+        "宋体",
+        "HCI Poppy",
+        "한컴 소망 M",
+        "Sandoll 명조Neo1 04 Medium",
+        "한컴바탕",
+        "산돌명조 L",
+        "hy 견명조",
+        "나눔명조 bold",
+        "Sandoll 명조 01 Light",
+        "HY궁서",
+        "함초롱바탕"
+      ],
+      "font_filename": "Nanum/NANUMMYEONGJO.TTF"
+    },
+    {
+      "font_names": [
+        "나눔명조 Bold",
+        "NanumMyeongjoBold",
+        "HY궁서B",
+        "H2gsrB",
+        "바른바탕1 B",
+        "바른바탕2 B",
+        "Calibri Bold Italic",
+        "Consolas Bold Italic",
+        "Courier New Bold Italic",
+        "Times New Roman Bold Italic"
+      ],
+      "font_filename": "Nanum/NANUMMYEONGJOBOLD.TTF"
+    },
+    {
+      "font_names": [
+        "나눔명조 ExtraBold",
+        "NanumMyeongjoExtraBold"
+      ],
+      "font_filename": "Nanum/NANUMMYEONGJOEXTRABOLD.TTF"
+    },
+    {
+      "font_names": [
+        "본명조",
+        "Noto Serif KR"
+      ],
+      "font_filename": "NotoSerifKR/NotoSerifKR-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Noto Sans Japanese",
+        "Noto Sans CJK JP Regular",
+        "源ノ角ゴシック",
+        "Noto Sans CJK JP",
+        "Noto Sans JP",
+        "HG丸ｺﾞｼｯｸM-PRO",
+        "HGSｺﾞｼｯｸE"
+      ],
+      "font_filename": "NotoSansJP/NotoSansCJKjp-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "源ノ明朝",
+        "MingLiU",
+        "ＭＳ Ｐ明朝",
+        "MS PMincho"
+      ],
+      "font_filename": "NotoSerifJP/NotoSerifJP-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "ＭＳ 明朝"
+      ],
+      "font_filename": "NotoSerifJP/NotoSerifJP-Light.ttf"
+    },
+    
+    {
+      "font_names": [
+        "Noto Sans",
+        "Arial Unicode MS"
+      ],
+      "font_filename": "NotoSans/NotoSans-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Noto Sans Japanese Bold",
+        "Noto Sans JP Bold",
+        "Noto Sans CJK JP Bold"
+      ],
+      "font_filename": "NotoSansJP/NotoSansCJKjp-Bold.ttf"
+    },
+    {
+      "font_names": [
+        "Roboto"
+      ],
+      "font_filename": "Roboto/Roboto-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Open Sans"
+      ],
+      "font_filename": "OpenSans/opensans-regular.ttf"
+    },
+    {
+      "font_names": [
+        "Noto Serif",
+        "Noto Serif JP",
+        "AoyagiKouzanFontT",
+        "cwTeXFangSong",
+        "MS Mincho",
+        "HG行書体"
+      ],
+      "font_filename": "NotoSerif/NotoSerif-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Book Antiqua",
+        "Cambria",
+        "Century"
+      ],
+      "font_filename": "Lora/Lora-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Franklin Gothic Medium"
+      ],
+      "font_filename": "Heebo/Heebo-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "verdana",
+        "Verdana",
+        "vernada"
+      ],
+      "font_filename": "Lato/Lato-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "Meiryo UI"
+      ],
+      "font_filename": "MPlus/MPLUS1p-ExtraBold.ttf"
+    },
+    {
+      "font_names": [
+        "Arial Rounded MT Bold"
+      ],
+      "font_filename": "Nunito/Nunito-ExtraBold.ttf"
+    },
+    {
+      "font_names": [
+        "함초롬돋움"
+      ],
+      "font_filename": "Nanum/NANUMBARUNGOTHICLIGHT.ttf"
+    },
+    {
+      "font_names": [
+        "ＭＳ Ｐゴシック",
+        "MS PGothic",
+        "メイリオ",
+        "Meiryo",
+        "Tahoma",
+        "Noto Sans CJK JP Medium",
+        "Noto Sans CJK JP Black"
+      ],
+      "font_filename": "NotoSansJP/NotoSansJP-Medium.ttf"
+    },
+    {
+      "font_names": [
+        "游ゴシック",
+        "Yu Gothic"
+      ],
+      "font_filename": "NotoSansJP/NotoSansJP-Light.ttf"
+    },
+    {
+      "font_names": [
+        "MS UI Gothic",
+        "ＭＳ ゴシック",
+        "MS Gothic",
+        "ヒラギノ丸ゴ ProN W4"
+      ],
+      "font_filename": "MPlus/MPLUSRounded1c-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "나눔스퀘어"
+      ],
+      "font_filename": "NanumSquare/NanumSquareR.ttf"
+    },
+    {
+      "font_names": [
+        "나눔스퀘어라운드 Regular",
+        "경기천년제목 Light"
+      ],
+      "font_filename": "NanumSquare/NanumSquareRoundR.ttf"
+    },
+    {
+      "font_names": [
+        "HY동녘M",
+        "경기천년제목V Bold"
+      ],
+      "font_filename": "NanumSquare/NanumSquareRoundB.ttf"
+    },
+    {
+      "font_names": [
+        "Source Sans Pro Light"
+      ],
+      "font_filename": "SourceSans/SourceSansPro-Light.ttf"
+    },
+     {
+      "font_names": [
+        "Tw Cen MT"
+      ],
+      "font_filename": "Spartan/Spartan-Medium.ttf"
+    },
+    {
+      "font_names": [
+        "WenQuanYi Micro Hei(文泉驿 WenQ)"
+      ],
+      "font_filename": "WenQuanYi/WenQuanYi-Micro-Hei.ttf"
+    },
+    {
+      "font_names": [
+          "조선굴림체",
+        "휴먼편지체"
+      ],
+      "font_filename": "WenQuanYi/WenQuanYi-Micro-Hei.ttf"
+    },
+    {
+      "font_names": [
+          "G마켓 산스 Bold Medium Light"
+      ],
+      "font_filename": "Gmarket/GmarketSansTTFMedium.ttf"
+    },
+    {
+      "font_names": [
+          "Noto Emoji",
+          "Segoe UI Symbol"
+      ],
+      "font_filename": "NotoEmoji/NotoEmoji-Regular.ttf"
+    },
+    {
+      "font_names": [
+        "HanaMinA"
+      ],
+      "font_filename": "Hanazono/HanaMinA.ttf"
+    },
+    {
+      "font_names": [
+        "HanaMinB"
+      ],
+      "font_filename": "Hanazono/HanaMinB.ttf"
+    }
+]
